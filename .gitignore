@@ -22,8 +22,3 @@ logs
 .env
 .env.*
 !.env.example
-
-
-[user]
-    name = 'ffyjd'
-    email = '1827143815@qq.com'
