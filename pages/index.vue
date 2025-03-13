@@ -8,6 +8,7 @@ definePageMeta({
 
 const goTo = () => {
   router.push("/admin");
+  console.log("goto");
 };
 </script>
 
